@@ -169,6 +169,10 @@
     "url": "*://inbox.google.com/*",
     "name": "Google Inbox"
   },
+  "kanbanize.com": {
+    "url": "*://*.kanbanize.com/*",
+    "name": "Kanbanize"
+  },
   "keep.google.com": {
     "url": "*://keep.google.com/*",
     "name": "Google Keep"
